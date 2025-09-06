@@ -33,3 +33,16 @@ body{
     transform: scale(1.5) rotateY(360deg);
     }
 }
+
+
+:where(.css-dev-only-do-not-override-1v28nim).ant-menu-dark .ant-menu-item-selected{
+    background-color: var(--clr-gold) !important;
+}
+
+:where(.css-dev-only-do-not-override-1v28nim).ant-menu-dark .ant-menu-submenu-selected{
+    background-color: var(--clr-gold) !important;
+}
+
+.navbar-menu > li{
+    padding: 25px !important;
+}

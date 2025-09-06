@@ -1,4 +1,5 @@
-
 import LoginForm from "./LoginForm";
+import Header from "./Header";
+import Navbar from "./Navbar";
 
-export {LoginForm}
+export {LoginForm,  Header, Navbar}

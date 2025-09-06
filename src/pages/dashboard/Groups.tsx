@@ -1,7 +1,7 @@
 
-function Groups() {
+const Groups = () => {
   return (
-    <div>Groups</div>
+    <div>Groups </div>
   )
 }
 

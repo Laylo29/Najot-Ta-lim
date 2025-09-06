@@ -1,5 +1,4 @@
-import PATH from './PATH';
-import PageLoading from './PageLoading';
+import PATH from "./PATH"
+import PageLoading from "./PageLoading"
 
-
-export{PATH, PageLoading}
+export {PATH, PageLoading}
